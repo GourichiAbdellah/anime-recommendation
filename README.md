@@ -16,7 +16,7 @@ A machine learning-based anime recommendation system that uses collaborative fil
 ### Prerequisites
 
 - Python 3.13+
-- pip package manager
+- uv package manager
 
 ### Setup
 
