@@ -16,7 +16,7 @@ A machine learning-based anime recommendation system that uses collaborative fil
 ### Prerequisites
 
 - Python 3.13+
-- uv package manager
+- UV package manager
 
 ### Setup
 
@@ -26,7 +26,7 @@ git clone <repository-url>
 cd PROJET
 
 # Install dependencies
-pip install -e .
+uv sync 
 ```
 
 ### Required Data Files
